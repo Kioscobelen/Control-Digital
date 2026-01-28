@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Digital Time Clock Pro",
+  "description": "Sistema de control horario profesional con geolocalización y gestión de nóminas, adaptado a la normativa española.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
